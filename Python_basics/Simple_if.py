@@ -8,3 +8,5 @@ if location.lower() in ["bangalore", "bengaluru"]:
     print(f"Registration is successful for {name} for the job title '{job_title}' in {location}.")
 else:
     print("Sorry, this job is only available in Bangalore.")
+
+...
